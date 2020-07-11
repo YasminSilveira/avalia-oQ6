@@ -16,7 +16,7 @@ public class ProvaQ6 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+    
      int valor=0,pos,neg;
 
        while(valor==0){
